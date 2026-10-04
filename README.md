@@ -15,6 +15,8 @@ Where:
 - **(T − G − TR)**: Primary public sector balance (Taxes − Government Spending − Transfers)
 - **CA**: Current Account balance
 
+---
+
 ## 📊 Reading the Diagram
 - **X-Axis**: Current Account balance (CA) as a % of GDP.
 - **Y-Axis**: Primary public sector balance as a % of GDP.
