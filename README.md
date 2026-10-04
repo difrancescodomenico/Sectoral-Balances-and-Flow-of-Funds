@@ -24,7 +24,7 @@ Where:
 
 ---
 
-## 🚀 Key Features
+## ⚙️ Key Features
 - **Dynamic Scatter Plot (D3.js)**: Continuous tracking of historical country trajectories by interpolating data across 5 anchor points (2007, 2010, 2015, 2020, 2025).
 - **Animation & Timeline Controls**: Automatic playback ("Play/Pause"), step-by-step navigation, and interactive timeline slider (2007–2025).
 - **Multiple Country Isolation**: Select individual countries or isolate multiple countries (`Ctrl/Cmd + Click`) to highlight specific trajectories for targeted comparison.
